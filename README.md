@@ -13,7 +13,13 @@ Learned about changing color of `.svg` file in this project
 
 - [Click me](https://live-class-project-13.vercel.app/) to view the project.
 
+<br>
+
 ![HTML](https://img.shields.io/badge/-HTML-D4F6CC?logo=HTML5)
 ![HTML](https://img.shields.io/badge/-CSS%20-1572B6?logo=CSS3)
 
 **Used in Project**
+
+### Preview
+
+![screeenshot](./screenshot-13.png)
