@@ -16,4 +16,22 @@
   .navRight {
     display: none;
   }
+
+  /*************************** Hero Section **************************/
+
+  .heroSection {
+    padding: 0 20px 60px 20px;
+  }
+
+  /*************************** Benefits Section **************************/
+
+  .benefits {
+    padding: 80px 20px 50px 20px;
+  }
+
+  /*************************** Benefits Section **************************/
+
+.features {
+    padding: 50px 20px;
+}
 }
