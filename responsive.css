@@ -1,0 +1,19 @@
+@media screen and (max-width: 1120px) {
+  /*************************** Navbar Section **************************/
+
+  .navbar {
+    padding: 60px 20px;
+  }
+
+  .navbar > img {
+    width: 100px;
+  }
+
+  .menu {
+    display: block;
+  }
+
+  .navRight {
+    display: none;
+  }
+}

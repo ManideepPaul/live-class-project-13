@@ -41,6 +41,10 @@ a:first-child {
     color: #ffffff;
 }
 
+.menu {
+    display: none;
+}
+
 /*************************** Hero Section **************************/
 
 .heroSection {
